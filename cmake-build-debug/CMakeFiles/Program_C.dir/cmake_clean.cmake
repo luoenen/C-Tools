@@ -13,6 +13,11 @@ file(REMOVE_RECURSE
   "CMakeFiles/Program_C.dir/day012.c.o"
   "CMakeFiles/Program_C.dir/day013.c.o"
   "CMakeFiles/Program_C.dir/day014.c.o"
+  "CMakeFiles/Program_C.dir/day015.c.o"
+  "CMakeFiles/Program_C.dir/day016.c.o"
+  "CMakeFiles/Program_C.dir/day017.c.o"
+  "CMakeFiles/Program_C.dir/day018.c.o"
+  "CMakeFiles/Program_C.dir/day019.c.o"
   "Program_C.pdb"
   "Program_C"
 )

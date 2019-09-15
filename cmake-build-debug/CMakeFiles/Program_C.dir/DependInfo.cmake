@@ -18,6 +18,11 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/luosenen/Documents/C/Program C/day012.c" "/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles/Program_C.dir/day012.c.o"
   "/Users/luosenen/Documents/C/Program C/day013.c" "/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles/Program_C.dir/day013.c.o"
   "/Users/luosenen/Documents/C/Program C/day014.c" "/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles/Program_C.dir/day014.c.o"
+  "/Users/luosenen/Documents/C/Program C/day015.c" "/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles/Program_C.dir/day015.c.o"
+  "/Users/luosenen/Documents/C/Program C/day016.c" "/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles/Program_C.dir/day016.c.o"
+  "/Users/luosenen/Documents/C/Program C/day017.c" "/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles/Program_C.dir/day017.c.o"
+  "/Users/luosenen/Documents/C/Program C/day018.c" "/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles/Program_C.dir/day018.c.o"
+  "/Users/luosenen/Documents/C/Program C/day019.c" "/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles/Program_C.dir/day019.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

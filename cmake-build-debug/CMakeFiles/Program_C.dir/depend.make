@@ -29,3 +29,14 @@ CMakeFiles/Program_C.dir/day013.c.o: ../day013.c
 
 CMakeFiles/Program_C.dir/day014.c.o: ../day014.c
 
+CMakeFiles/Program_C.dir/day015.c.o: ../day015.c
+
+CMakeFiles/Program_C.dir/day016.c.o: ../day016.c
+
+CMakeFiles/Program_C.dir/day017.c.o: ../day015.c
+CMakeFiles/Program_C.dir/day017.c.o: ../day017.c
+
+CMakeFiles/Program_C.dir/day018.c.o: ../day018.c
+
+CMakeFiles/Program_C.dir/day019.c.o: ../day019.c
+

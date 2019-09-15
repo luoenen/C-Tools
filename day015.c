@@ -8,12 +8,12 @@
 
 #include <stdio.h>
 
-int getLength(int list[]){
-    
-    int index = 0;
-    while (list[index]!='\0') {
-        index++;
-    }
-    return index;
-}
+//int getLengths(int list[]){
+//
+//    int index = 0;
+//    while (list[index]!='\0') {
+//        index++;
+//    }
+//    return index;
+//}
 

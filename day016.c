@@ -32,13 +32,13 @@ int size(int array[]){
 }
 
 // 数组增删改查插
-int* add(int array[],int e){
+int addas(int array[],int e){
     
     int count = size(array);
     
     if (count<1) {
         printf("%s","线性表容量出错");
-        return array;
+        return 1;
     }else{
         int arr[count*2+2];
         int flag = 0;
@@ -48,7 +48,7 @@ int* add(int array[],int e){
         }
         arr[flag] = e;
         
-        return arr;
+        return 1;
     }
     
     
@@ -66,36 +66,36 @@ void delete(int array[],int i){
 }
 
 //插
-int* insert(int array[],int index,int e){
-    
-    int count = size(array);
-    int arr[100];
-    if (count<1) {
-        printf("%s","线性表容量出错");
-    }else{
-        for (int i = 0; i<size(array); i++) {
-            if (i < index){
-                arr[i] = array[i];
-            }else if(i == index){
-                arr[i] = e;
-            }
-                arr[i+1] = array[i];
-            
-        }
-        
-        
-    }
-    
-    for (int i = 0; i < count; i++) {
-        printf("%d\n",arr[i]);
-    }
-    return arr;
-}
+//int* insert(int array[],int index,int e){
+//
+//    int count = size(array);
+//    int arr[100];
+//    if (count<1) {
+//        printf("%s","线性表容量出错");
+//    }else{
+//        for (int i = 0; i<size(array); i++) {
+//            if (i < index){
+//                arr[i] = array[i];
+//            }else if(i == index){
+//                arr[i] = e;
+//            }
+//                arr[i+1] = array[i];
+//
+//        }
+//
+//
+//    }
+//
+//    for (int i = 0; i < count; i++) {
+//        printf("%d\n",arr[i]);
+//    }
+//    return 1;
+//}
 
-typedef struct Node{
-    int data;
-    struct Node *nextNode;
-};
+//typedef struct Node{
+//    int data;
+//    struct Node *nextNode;
+//};
 
 
 

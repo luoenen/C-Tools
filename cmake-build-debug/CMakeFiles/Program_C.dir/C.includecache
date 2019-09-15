@@ -6,21 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/luosenen/Documents/C/Program C/day014.c
+/Users/luosenen/Documents/C/Program C/day019.c
 stdio.h
--
-stdlib.h
--
-unistd.h
--
-time.h
--
-stdbool.h
--
-memory.h
--
-string.h
--
-wchar.h
 -
 

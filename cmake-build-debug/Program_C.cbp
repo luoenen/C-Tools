@@ -118,6 +118,21 @@
 		<Unit filename="/Users/luosenen/Documents/C/Program C/day014.c">
 			<Option target="Program_C"/>
 		</Unit>
+		<Unit filename="/Users/luosenen/Documents/C/Program C/day015.c">
+			<Option target="Program_C"/>
+		</Unit>
+		<Unit filename="/Users/luosenen/Documents/C/Program C/day016.c">
+			<Option target="Program_C"/>
+		</Unit>
+		<Unit filename="/Users/luosenen/Documents/C/Program C/day017.c">
+			<Option target="Program_C"/>
+		</Unit>
+		<Unit filename="/Users/luosenen/Documents/C/Program C/day018.c">
+			<Option target="Program_C"/>
+		</Unit>
+		<Unit filename="/Users/luosenen/Documents/C/Program C/day019.c">
+			<Option target="Program_C"/>
+		</Unit>
 		<Unit filename="/Users/luosenen/Documents/C/Program C/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
