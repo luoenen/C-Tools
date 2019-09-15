@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/luosenen/Documents/C/Program C/day014.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+time.h
+-
+stdbool.h
+-
+memory.h
+-
+string.h
+-
+wchar.h
+-
+

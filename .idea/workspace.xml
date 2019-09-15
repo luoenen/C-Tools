@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Program_C" targetName="Program_C" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fd1b730-5271-4a40-9927-deee802be972" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Program_C.dir/day014.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Program_C.dir/day014.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Program_C" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Program_C" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day014.c" beforeDir="false" afterPath="$PROJECT_DIR$/day014.c" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+    <option name="clangWarnings" value="-Wno-unused-variable,-Werror=implicit-function-declaration,-Wshadow,-Wno-shadow-field-in-constructor-modified,-Wno-shadow-ivar,-Wno-incompatible-pointer-types-discards-qualifiers" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Q6QevN9Kn9UOVRSURXVwmMZp98" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Program_C" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Program_C" TARGET_NAME="Program_C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Program_C" RUN_TARGET_NAME="Program_C">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fd1b730-5271-4a40-9927-deee802be972" name="Default Changelist" comment="" />
+      <created>1567088664958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567088664958</updated>
+      <workItem from="1567088668150" duration="14000" />
+      <workItem from="1567247581612" duration="261000" />
+      <workItem from="1567247852506" duration="7469000" />
+      <workItem from="1567338670349" duration="6566000" />
+      <workItem from="1567425163190" duration="6293000" />
+      <workItem from="1567517566141" duration="2431000" />
+      <workItem from="1567597966707" duration="1010000" />
+      <workItem from="1567600615761" duration="4702000" />
+      <workItem from="1567684091999" duration="7838000" />
+      <workItem from="1567770457897" duration="7250000" />
+      <workItem from="1567851180660" duration="896000" />
+      <workItem from="1567856594663" duration="532000" />
+      <workItem from="1567924021844" duration="1984000" />
+      <workItem from="1567945209971" duration="5716000" />
+      <workItem from="1568026623814" duration="9534000" />
+      <workItem from="1568113577649" duration="2307000" />
+      <workItem from="1568198916604" duration="6050000" />
+      <workItem from="1568288961972" duration="6182000" />
+      <workItem from="1568336493903" duration="932000" />
+      <workItem from="1568457917534" duration="60000" />
+      <workItem from="1568457991094" duration="6342000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
