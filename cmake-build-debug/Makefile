@@ -636,6 +636,195 @@ day019.c.s:
 	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day019.c.s
 .PHONY : day019.c.s
 
+day020.o: day020.c.o
+
+.PHONY : day020.o
+
+# target to build an object file
+day020.c.o:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day020.c.o
+.PHONY : day020.c.o
+
+day020.i: day020.c.i
+
+.PHONY : day020.i
+
+# target to preprocess a source file
+day020.c.i:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day020.c.i
+.PHONY : day020.c.i
+
+day020.s: day020.c.s
+
+.PHONY : day020.s
+
+# target to generate assembly for a file
+day020.c.s:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day020.c.s
+.PHONY : day020.c.s
+
+day021.o: day021.c.o
+
+.PHONY : day021.o
+
+# target to build an object file
+day021.c.o:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day021.c.o
+.PHONY : day021.c.o
+
+day021.i: day021.c.i
+
+.PHONY : day021.i
+
+# target to preprocess a source file
+day021.c.i:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day021.c.i
+.PHONY : day021.c.i
+
+day021.s: day021.c.s
+
+.PHONY : day021.s
+
+# target to generate assembly for a file
+day021.c.s:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day021.c.s
+.PHONY : day021.c.s
+
+day022.o: day022.c.o
+
+.PHONY : day022.o
+
+# target to build an object file
+day022.c.o:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day022.c.o
+.PHONY : day022.c.o
+
+day022.i: day022.c.i
+
+.PHONY : day022.i
+
+# target to preprocess a source file
+day022.c.i:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day022.c.i
+.PHONY : day022.c.i
+
+day022.s: day022.c.s
+
+.PHONY : day022.s
+
+# target to generate assembly for a file
+day022.c.s:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day022.c.s
+.PHONY : day022.c.s
+
+day023.o: day023.c.o
+
+.PHONY : day023.o
+
+# target to build an object file
+day023.c.o:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day023.c.o
+.PHONY : day023.c.o
+
+day023.i: day023.c.i
+
+.PHONY : day023.i
+
+# target to preprocess a source file
+day023.c.i:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day023.c.i
+.PHONY : day023.c.i
+
+day023.s: day023.c.s
+
+.PHONY : day023.s
+
+# target to generate assembly for a file
+day023.c.s:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day023.c.s
+.PHONY : day023.c.s
+
+day024.o: day024.c.o
+
+.PHONY : day024.o
+
+# target to build an object file
+day024.c.o:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day024.c.o
+.PHONY : day024.c.o
+
+day024.i: day024.c.i
+
+.PHONY : day024.i
+
+# target to preprocess a source file
+day024.c.i:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day024.c.i
+.PHONY : day024.c.i
+
+day024.s: day024.c.s
+
+.PHONY : day024.s
+
+# target to generate assembly for a file
+day024.c.s:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day024.c.s
+.PHONY : day024.c.s
+
+day025.o: day025.c.o
+
+.PHONY : day025.o
+
+# target to build an object file
+day025.c.o:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day025.c.o
+.PHONY : day025.c.o
+
+day025.i: day025.c.i
+
+.PHONY : day025.i
+
+# target to preprocess a source file
+day025.c.i:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day025.c.i
+.PHONY : day025.c.i
+
+day025.s: day025.c.s
+
+.PHONY : day025.s
+
+# target to generate assembly for a file
+day025.c.s:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day025.c.s
+.PHONY : day025.c.s
+
+day026.o: day026.c.o
+
+.PHONY : day026.o
+
+# target to build an object file
+day026.c.o:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day026.c.o
+.PHONY : day026.c.o
+
+day026.i: day026.c.i
+
+.PHONY : day026.i
+
+# target to preprocess a source file
+day026.c.i:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day026.c.i
+.PHONY : day026.c.i
+
+day026.s: day026.c.s
+
+.PHONY : day026.s
+
+# target to generate assembly for a file
+day026.c.s:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day026.c.s
+.PHONY : day026.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -702,6 +891,27 @@ help:
 	@echo "... day019.o"
 	@echo "... day019.i"
 	@echo "... day019.s"
+	@echo "... day020.o"
+	@echo "... day020.i"
+	@echo "... day020.s"
+	@echo "... day021.o"
+	@echo "... day021.i"
+	@echo "... day021.s"
+	@echo "... day022.o"
+	@echo "... day022.i"
+	@echo "... day022.s"
+	@echo "... day023.o"
+	@echo "... day023.i"
+	@echo "... day023.s"
+	@echo "... day024.o"
+	@echo "... day024.i"
+	@echo "... day024.s"
+	@echo "... day025.o"
+	@echo "... day025.i"
+	@echo "... day025.s"
+	@echo "... day026.o"
+	@echo "... day026.i"
+	@echo "... day026.s"
 .PHONY : help
 
 

@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/luosenen/Documents/C/Program C/day019.c
+/Users/luosenen/Documents/C/Program C/day026.c
 stdio.h
+-
+stdlib.h
+-
+string.h
 -
 

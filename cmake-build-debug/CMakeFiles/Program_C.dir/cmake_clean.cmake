@@ -18,6 +18,13 @@ file(REMOVE_RECURSE
   "CMakeFiles/Program_C.dir/day017.c.o"
   "CMakeFiles/Program_C.dir/day018.c.o"
   "CMakeFiles/Program_C.dir/day019.c.o"
+  "CMakeFiles/Program_C.dir/day020.c.o"
+  "CMakeFiles/Program_C.dir/day021.c.o"
+  "CMakeFiles/Program_C.dir/day022.c.o"
+  "CMakeFiles/Program_C.dir/day023.c.o"
+  "CMakeFiles/Program_C.dir/day024.c.o"
+  "CMakeFiles/Program_C.dir/day025.c.o"
+  "CMakeFiles/Program_C.dir/day026.c.o"
   "Program_C.pdb"
   "Program_C"
 )
