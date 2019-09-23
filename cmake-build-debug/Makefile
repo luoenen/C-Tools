@@ -825,6 +825,33 @@ day026.c.s:
 	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day026.c.s
 .PHONY : day026.c.s
 
+day027.o: day027.c.o
+
+.PHONY : day027.o
+
+# target to build an object file
+day027.c.o:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day027.c.o
+.PHONY : day027.c.o
+
+day027.i: day027.c.i
+
+.PHONY : day027.i
+
+# target to preprocess a source file
+day027.c.i:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day027.c.i
+.PHONY : day027.c.i
+
+day027.s: day027.c.s
+
+.PHONY : day027.s
+
+# target to generate assembly for a file
+day027.c.s:
+	$(MAKE) -f CMakeFiles/Program_C.dir/build.make CMakeFiles/Program_C.dir/day027.c.s
+.PHONY : day027.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -912,6 +939,9 @@ help:
 	@echo "... day026.o"
 	@echo "... day026.i"
 	@echo "... day026.s"
+	@echo "... day027.o"
+	@echo "... day027.i"
+	@echo "... day027.s"
 .PHONY : help
 
 

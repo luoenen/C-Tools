@@ -154,6 +154,9 @@
 		<Unit filename="/Users/luosenen/Documents/C/Program C/day026.c">
 			<Option target="Program_C"/>
 		</Unit>
+		<Unit filename="/Users/luosenen/Documents/C/Program C/day027.c">
+			<Option target="Program_C"/>
+		</Unit>
 		<Unit filename="/Users/luosenen/Documents/C/Program C/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

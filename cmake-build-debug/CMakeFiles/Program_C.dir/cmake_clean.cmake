@@ -25,6 +25,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Program_C.dir/day024.c.o"
   "CMakeFiles/Program_C.dir/day025.c.o"
   "CMakeFiles/Program_C.dir/day026.c.o"
+  "CMakeFiles/Program_C.dir/day027.c.o"
   "Program_C.pdb"
   "Program_C"
 )
