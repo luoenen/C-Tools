@@ -31,6 +31,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/luosenen/Documents/C/Program C/day025.c" "/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles/Program_C.dir/day025.c.o"
   "/Users/luosenen/Documents/C/Program C/day026.c" "/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles/Program_C.dir/day026.c.o"
   "/Users/luosenen/Documents/C/Program C/day027.c" "/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles/Program_C.dir/day027.c.o"
+  "/Users/luosenen/Documents/C/Program C/day028.c" "/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles/Program_C.dir/day028.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

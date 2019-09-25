@@ -29,4 +29,7 @@ add_executable(Program_C
         day023.c
         day024.c
         day025.c
-        day026.c)
+        day026.c
+        day027.c
+        day028.c
+        day028.cpp)

@@ -6,9 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/Users/luosenen/Documents/C/Program C/day027.c
+/Users/luosenen/Documents/C/Program C/day028.c
 stdio.h
 -
 stdlib.h
+-
+string.h
+-
+memory.h
+-
+unistd.h
+-
+time.h
+-
+pthread.h
+-
+profile.h
+-
+assert.h
 -
 

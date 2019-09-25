@@ -46,7 +46,7 @@ EQUALS = =
 CMAKE_SOURCE_DIR = "/Users/luosenen/Documents/C/Program C"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/luosenen/Documents/C/Program C/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/luosenen/Documents/C/Program C/cmake-build-release"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Program_C.dir/depend.make
@@ -59,7 +59,7 @@ include CMakeFiles/Program_C.dir/flags.make
 
 CMakeFiles/Program_C.dir/day001.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day001.c.o: ../day001.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Program_C.dir/day001.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Program_C.dir/day001.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day001.c.o   -c "/Users/luosenen/Documents/C/Program C/day001.c"
 
 CMakeFiles/Program_C.dir/day001.c.i: cmake_force
@@ -72,7 +72,7 @@ CMakeFiles/Program_C.dir/day001.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day002.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day002.c.o: ../day002.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Program_C.dir/day002.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Program_C.dir/day002.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day002.c.o   -c "/Users/luosenen/Documents/C/Program C/day002.c"
 
 CMakeFiles/Program_C.dir/day002.c.i: cmake_force
@@ -85,7 +85,7 @@ CMakeFiles/Program_C.dir/day002.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day003.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day003.c.o: ../day003.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Program_C.dir/day003.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Program_C.dir/day003.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day003.c.o   -c "/Users/luosenen/Documents/C/Program C/day003.c"
 
 CMakeFiles/Program_C.dir/day003.c.i: cmake_force
@@ -98,7 +98,7 @@ CMakeFiles/Program_C.dir/day003.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day004.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day004.c.o: ../day004.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Program_C.dir/day004.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Program_C.dir/day004.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day004.c.o   -c "/Users/luosenen/Documents/C/Program C/day004.c"
 
 CMakeFiles/Program_C.dir/day004.c.i: cmake_force
@@ -111,7 +111,7 @@ CMakeFiles/Program_C.dir/day004.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day005.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day005.c.o: ../day005.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/Program_C.dir/day005.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/Program_C.dir/day005.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day005.c.o   -c "/Users/luosenen/Documents/C/Program C/day005.c"
 
 CMakeFiles/Program_C.dir/day005.c.i: cmake_force
@@ -124,7 +124,7 @@ CMakeFiles/Program_C.dir/day005.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day006.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day006.c.o: ../day006.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/Program_C.dir/day006.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/Program_C.dir/day006.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day006.c.o   -c "/Users/luosenen/Documents/C/Program C/day006.c"
 
 CMakeFiles/Program_C.dir/day006.c.i: cmake_force
@@ -137,7 +137,7 @@ CMakeFiles/Program_C.dir/day006.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day007.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day007.c.o: ../day007.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/Program_C.dir/day007.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/Program_C.dir/day007.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day007.c.o   -c "/Users/luosenen/Documents/C/Program C/day007.c"
 
 CMakeFiles/Program_C.dir/day007.c.i: cmake_force
@@ -150,7 +150,7 @@ CMakeFiles/Program_C.dir/day007.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day008.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day008.c.o: ../day008.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/Program_C.dir/day008.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/Program_C.dir/day008.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day008.c.o   -c "/Users/luosenen/Documents/C/Program C/day008.c"
 
 CMakeFiles/Program_C.dir/day008.c.i: cmake_force
@@ -163,7 +163,7 @@ CMakeFiles/Program_C.dir/day008.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day009.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day009.c.o: ../day009.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/Program_C.dir/day009.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/Program_C.dir/day009.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day009.c.o   -c "/Users/luosenen/Documents/C/Program C/day009.c"
 
 CMakeFiles/Program_C.dir/day009.c.i: cmake_force
@@ -176,7 +176,7 @@ CMakeFiles/Program_C.dir/day009.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day010.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day010.c.o: ../day010.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/Program_C.dir/day010.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/Program_C.dir/day010.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day010.c.o   -c "/Users/luosenen/Documents/C/Program C/day010.c"
 
 CMakeFiles/Program_C.dir/day010.c.i: cmake_force
@@ -189,7 +189,7 @@ CMakeFiles/Program_C.dir/day010.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day011.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day011.c.o: ../day011.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/Program_C.dir/day011.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/Program_C.dir/day011.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day011.c.o   -c "/Users/luosenen/Documents/C/Program C/day011.c"
 
 CMakeFiles/Program_C.dir/day011.c.i: cmake_force
@@ -202,7 +202,7 @@ CMakeFiles/Program_C.dir/day011.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day012.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day012.c.o: ../day012.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/Program_C.dir/day012.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/Program_C.dir/day012.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day012.c.o   -c "/Users/luosenen/Documents/C/Program C/day012.c"
 
 CMakeFiles/Program_C.dir/day012.c.i: cmake_force
@@ -215,7 +215,7 @@ CMakeFiles/Program_C.dir/day012.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day013.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day013.c.o: ../day013.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/Program_C.dir/day013.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/Program_C.dir/day013.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day013.c.o   -c "/Users/luosenen/Documents/C/Program C/day013.c"
 
 CMakeFiles/Program_C.dir/day013.c.i: cmake_force
@@ -228,7 +228,7 @@ CMakeFiles/Program_C.dir/day013.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day014.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day014.c.o: ../day014.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/Program_C.dir/day014.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/Program_C.dir/day014.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day014.c.o   -c "/Users/luosenen/Documents/C/Program C/day014.c"
 
 CMakeFiles/Program_C.dir/day014.c.i: cmake_force
@@ -241,7 +241,7 @@ CMakeFiles/Program_C.dir/day014.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day015.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day015.c.o: ../day015.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/Program_C.dir/day015.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/Program_C.dir/day015.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day015.c.o   -c "/Users/luosenen/Documents/C/Program C/day015.c"
 
 CMakeFiles/Program_C.dir/day015.c.i: cmake_force
@@ -254,7 +254,7 @@ CMakeFiles/Program_C.dir/day015.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day016.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day016.c.o: ../day016.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/Program_C.dir/day016.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/Program_C.dir/day016.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day016.c.o   -c "/Users/luosenen/Documents/C/Program C/day016.c"
 
 CMakeFiles/Program_C.dir/day016.c.i: cmake_force
@@ -267,7 +267,7 @@ CMakeFiles/Program_C.dir/day016.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day017.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day017.c.o: ../day017.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/Program_C.dir/day017.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/Program_C.dir/day017.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day017.c.o   -c "/Users/luosenen/Documents/C/Program C/day017.c"
 
 CMakeFiles/Program_C.dir/day017.c.i: cmake_force
@@ -280,7 +280,7 @@ CMakeFiles/Program_C.dir/day017.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day018.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day018.c.o: ../day018.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/Program_C.dir/day018.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/Program_C.dir/day018.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day018.c.o   -c "/Users/luosenen/Documents/C/Program C/day018.c"
 
 CMakeFiles/Program_C.dir/day018.c.i: cmake_force
@@ -293,7 +293,7 @@ CMakeFiles/Program_C.dir/day018.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day019.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day019.c.o: ../day019.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/Program_C.dir/day019.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/Program_C.dir/day019.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day019.c.o   -c "/Users/luosenen/Documents/C/Program C/day019.c"
 
 CMakeFiles/Program_C.dir/day019.c.i: cmake_force
@@ -306,7 +306,7 @@ CMakeFiles/Program_C.dir/day019.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day020.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day020.c.o: ../day020.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/Program_C.dir/day020.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/Program_C.dir/day020.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day020.c.o   -c "/Users/luosenen/Documents/C/Program C/day020.c"
 
 CMakeFiles/Program_C.dir/day020.c.i: cmake_force
@@ -319,7 +319,7 @@ CMakeFiles/Program_C.dir/day020.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day021.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day021.c.o: ../day021.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/Program_C.dir/day021.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/Program_C.dir/day021.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day021.c.o   -c "/Users/luosenen/Documents/C/Program C/day021.c"
 
 CMakeFiles/Program_C.dir/day021.c.i: cmake_force
@@ -332,7 +332,7 @@ CMakeFiles/Program_C.dir/day021.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day022.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day022.c.o: ../day022.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/Program_C.dir/day022.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/Program_C.dir/day022.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day022.c.o   -c "/Users/luosenen/Documents/C/Program C/day022.c"
 
 CMakeFiles/Program_C.dir/day022.c.i: cmake_force
@@ -345,7 +345,7 @@ CMakeFiles/Program_C.dir/day022.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day023.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day023.c.o: ../day023.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/Program_C.dir/day023.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/Program_C.dir/day023.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day023.c.o   -c "/Users/luosenen/Documents/C/Program C/day023.c"
 
 CMakeFiles/Program_C.dir/day023.c.i: cmake_force
@@ -358,7 +358,7 @@ CMakeFiles/Program_C.dir/day023.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day024.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day024.c.o: ../day024.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/Program_C.dir/day024.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/Program_C.dir/day024.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day024.c.o   -c "/Users/luosenen/Documents/C/Program C/day024.c"
 
 CMakeFiles/Program_C.dir/day024.c.i: cmake_force
@@ -371,7 +371,7 @@ CMakeFiles/Program_C.dir/day024.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day025.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day025.c.o: ../day025.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/Program_C.dir/day025.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/Program_C.dir/day025.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day025.c.o   -c "/Users/luosenen/Documents/C/Program C/day025.c"
 
 CMakeFiles/Program_C.dir/day025.c.i: cmake_force
@@ -384,7 +384,7 @@ CMakeFiles/Program_C.dir/day025.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day026.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day026.c.o: ../day026.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/Program_C.dir/day026.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/Program_C.dir/day026.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day026.c.o   -c "/Users/luosenen/Documents/C/Program C/day026.c"
 
 CMakeFiles/Program_C.dir/day026.c.i: cmake_force
@@ -397,7 +397,7 @@ CMakeFiles/Program_C.dir/day026.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day027.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day027.c.o: ../day027.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/Program_C.dir/day027.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/Program_C.dir/day027.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day027.c.o   -c "/Users/luosenen/Documents/C/Program C/day027.c"
 
 CMakeFiles/Program_C.dir/day027.c.i: cmake_force
@@ -410,7 +410,7 @@ CMakeFiles/Program_C.dir/day027.c.s: cmake_force
 
 CMakeFiles/Program_C.dir/day028.c.o: CMakeFiles/Program_C.dir/flags.make
 CMakeFiles/Program_C.dir/day028.c.o: ../day028.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/Program_C.dir/day028.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/Program_C.dir/day028.c.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Program_C.dir/day028.c.o   -c "/Users/luosenen/Documents/C/Program C/day028.c"
 
 CMakeFiles/Program_C.dir/day028.c.i: cmake_force
@@ -485,7 +485,7 @@ Program_C: CMakeFiles/Program_C.dir/day027.c.o
 Program_C: CMakeFiles/Program_C.dir/day028.c.o
 Program_C: CMakeFiles/Program_C.dir/build.make
 Program_C: CMakeFiles/Program_C.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_29) "Linking C executable Program_C"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_29) "Linking C executable Program_C"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Program_C.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -498,6 +498,6 @@ CMakeFiles/Program_C.dir/clean:
 .PHONY : CMakeFiles/Program_C.dir/clean
 
 CMakeFiles/Program_C.dir/depend:
-	cd "/Users/luosenen/Documents/C/Program C/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/luosenen/Documents/C/Program C" "/Users/luosenen/Documents/C/Program C" "/Users/luosenen/Documents/C/Program C/cmake-build-debug" "/Users/luosenen/Documents/C/Program C/cmake-build-debug" "/Users/luosenen/Documents/C/Program C/cmake-build-debug/CMakeFiles/Program_C.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/Users/luosenen/Documents/C/Program C/cmake-build-release" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/luosenen/Documents/C/Program C" "/Users/luosenen/Documents/C/Program C" "/Users/luosenen/Documents/C/Program C/cmake-build-release" "/Users/luosenen/Documents/C/Program C/cmake-build-release" "/Users/luosenen/Documents/C/Program C/cmake-build-release/CMakeFiles/Program_C.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Program_C.dir/depend
 

@@ -56,3 +56,5 @@ CMakeFiles/Program_C.dir/day026.c.o: ../day026.c
 
 CMakeFiles/Program_C.dir/day027.c.o: ../day027.c
 
+CMakeFiles/Program_C.dir/day028.c.o: ../day028.c
+
